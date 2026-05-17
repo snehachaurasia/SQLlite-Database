@@ -1,5 +1,5 @@
 //UI: 2 number textbox (hint : name , marks) , textbox (hint: name) , 4 buttons (insert , update , dekete , show all) , 1 textView
-Linear Layout
+//Using Linear Layout
 
 lateinit var db: DBHelper
   lateinit var txtID: EditText
