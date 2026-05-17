@@ -1,3 +1,5 @@
+//we should write this code on the activity main file of the android studio
+
 package com.example.calculator
 import android.os.Bundle
 import android.view.View
