@@ -1,3 +1,6 @@
+//Right-click on the package → New → Kotlin Class/File → Name it DBHelper.
+the above step is to be done on the android studio 
+
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
